@@ -3,10 +3,10 @@ PATCHLEVEL = 18
 SUBLEVEL = 14
 EXTRAVERSION =
 NAME = Shuffling Zombie Juror
-ANDROID_MAJOR_VERSION=n
-MAJOR_VERSION=n
-export ANDROID_MAJOR_VERSION=n
-export MAJOR_VERSION=n 
+ANDROID_MAJOR_VERSION=p
+MAJOR_VERSION=p
+export ANDROID_MAJOR_VERSION=p
+export MAJOR_VERSION=p
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
